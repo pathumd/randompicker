@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=RandomPicker
+comment0.text=\r\n\ The\ RandomPicker\ class\ implements\ a\ GUI\ application\ that\ enables\ \r\n\ the\ user\ to\ input\ as\ many\ items\ for\ selection,\ and\ the\ application\ \r\n\ then\ selects\ one\ of\ these\ items\ randomly.\r\n\r\n\ @author\ Pathum\ Danthanarayana\r\n\ @version\ 1.0\ May\ 18,\ 2022\r\n
+comment1.params=
+comment1.target=RandomPicker()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RandomPicker\r\n
+comment2.params=
+comment2.target=void\ prepareLog()
+comment2.text=\r\n\ The\ prepareLog\ method\ initializes\ and\ sets\ up\ the\ JPanel\ which\ acts\ as\ a\ log\ \r\n\ and\ outputs\ when\ an\ item\ is\ added\ and\ removed\r\n
+comment3.params=
+comment3.target=void\ prepareAddPanel()
+comment3.text=\r\n\ The\ prepareAddPanel\ method\ initializes\ and\ sets\ up\ the\ JPanel\ which\ contains\ the\ \r\n\ JTextField\ and\ JButton,\ where\ the\ user\ can\ add\ an\ item\r\n
+comment4.params=
+comment4.target=void\ prepareRemovePanel()
+comment4.text=\r\n\ The\ prepareRemovePanel\ method\ initializes\ and\ sets\ up\ the\ JPanel\ \r\n\ which\ contains\ the\ JTextField\ and\ JButton,\ where\ the\ user\ can\ remove\ an\ item\r\n
+comment5.params=
+comment5.target=void\ prepareSelectionPanel()
+comment5.text=\r\n\ The\ prepareSelectionPanel\ method\ initializes\ and\ sets\ up\ the\ JPanel\ \r\n\ which\ outputs\ and\ displays\ the\ randomly\ selected\ item\r\n
+comment6.params=
+comment6.target=void\ preparePickPanel()
+comment6.text=\r\n\ The\ preparePickPanel\ method\ initializes\ and\ sets\ up\ the\ JPanel\ which\ \r\n\ contains\ a\ JButton\ that\ allows\ the\ user\ to\ randomly\ select\ an\ item\r\n
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.text=\r\n\ The\ actionPerformed\ method\ performs\ certain\ instructions\ based\ \r\n\ on\ the\ ActionEvent\ that\ is\ listened\ to\r\n
+numComments=8
